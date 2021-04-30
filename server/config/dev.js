@@ -1,0 +1,12 @@
+module.exports = {
+    googleProjectID:'ai-avinash-fydk',
+    dialogFlowSessionID:'',
+    dialogFlowSessionLanguageCode:'',
+    googleClientEmail:'avinash@ai-avinash-fydk.iam.gserviceaccount.com',
+    googlePrivateKey:'-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDHp7L6iSuObP+8\nvxRPeVMK7GnWrvKWd9JNDiwPGn6dTxkSnJQM8A5RYYVKZ4kSjjzbwNfYWgUVaup/\n4FcinHsL/z3t1d+7nm35or1vPyGpt0cdkX4eplLeKv1GBtlmc/DzTiPo8RbMHoh7\nWOvgNtca7oe7J3XjKYerNvq5jAzPBnOPYGyy7dMIQOgNscZJ1BmLWA8Plf8E1hhF\nn+pvoJE1FQWApYc80f+Fb0Uc2d2VWfP7L+chuZwYz4qOyrmNe8IqIN+rGO85P+/U\nqWtKLzfqaY46swxixiSBiqeBeE1nOqvJAEQQe11hqIzYKq8bywrtZsrftSLtxzjD\nXUzxBSbvAgMBAAECggEAByqxZYXj/t5RxcQ0JfAsd3FqES9BfP47GdH+6eHhFqN+\numjNdbNuSCSQhM23oWdirt66wMTmdtDaLxHt/suQLSuR3QY23ETBHNtnImWpPy7Z\niimtVctRoTD423kmd6OEzC8LYfK5h0U3T/ouqWM+kHRsgd7WP/u/J3m3QU7SLOI1\nq48CeZuxVer0ADVDK0CZke24fXcou2I57iJl4iGRzJrqKSPOjDdV6f2i0xqmCEJh\nG1GKy6w9LrjsYG9wanLYk5vaX1SR2oagGwbTk/IQjrYGAbO0ARcm/L410z2Dh7rD\nO2ivw1btkKa+8SzaMSakP90LpfWgtazAIGSIurYIRQKBgQDjf5l0ZqwufKMeiT5s\nortYBx7o1nKWUQ0jYWEecQmr6i5OmUaP4yjEQzbZ4+7a0nlJO5VlMAh3V1ZWvce1\nHgOJgg3tiLLTUlXIMJ44+il+pB55ic94rRSmbfGo8CEDPvk1WfSeXEp+0vamiFU5\nHDCn0VbibtUIMZRsIvsEVb/8BQKBgQDgqxlJ9GuLc0N5oCvQbbgWnGd2E74FdBM/\nLTpjQG5QMIsc+K1L5rR68ABJoAc8Hp9xmKEwCIpdZqa7o8M12iO4Mu++loQ7cxPf\nh93ciFJHT0Mc/b9tGdhxFXsByIfLTPNjXxy2n2KqQrRWg6ebiofKKXgoGa4jMLHs\nVQIgpIu9YwKBgCPXVYDOMDA+uKA19Ry+Yo+Sx57dMj5WVKCPVfKq0mBAS71cTo6a\ntjB9emXHkDjvUeZkubuwXpUWsGaIDa+OI/aFA9a5Y5sBbLxWVIcbenAWQSrauFIF\nyqwRxDHeawUM5cwu+Of+GEp0yCEid3LA6zV1OKAB4BQjY4PJ2wwqyk1VAoGBAIed\nwH4r1F8xDKH2VXxTPrQnZSyZbjLMhnG0U3JmCjDNnKu4UKNod7ld9k57EuLveT+Q\n6nucLCmFNVA+4i83pigiVyWspdVc+boMwZfFkiUJa3Gsmki5OTXJyZ6h9ZZ6tNBf\nMW3reBteeI1gm2QAk0ctESLjnYIQetY12jrqGJARAoGBAMYXzNwXzKbqpUPk6faA\nmZBIhwbezsXRjBFPmT7b2sbE7StLi5ShN2Diyc9IZcgfiReId8rHgkiKB911aUw7\nnHen/vLloKbp01Dha9Rn+XD3SrQqWUa/C9X/DLZBxt7RvdIczHKpg587fZeC0SYu\nEl/tiLp0+S1Gz9oBS4AKqFrL\n-----END PRIVATE KEY-----\n',
+    mongoURI:''
+}
+
+/*
+export GOOGLE_APPLICATION_CREDENTIALS=D:\chatbot\chatbot-app\ai-avinash-fydk-4f42d3b1acf7.json
+*/
